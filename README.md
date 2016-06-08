@@ -1,2 +1,2 @@
 # hello-world
-create a new repository tutorial
+new repository for mizutombo
