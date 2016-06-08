@@ -1,2 +1,2 @@
 # hello-world
-create a new repository tutorial
+learning to find my way around the repository
